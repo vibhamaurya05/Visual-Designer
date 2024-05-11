@@ -8,4 +8,4 @@ I created this responsiv Editing Visual Designer Landing Page project using HTML
 * And I learned to make the remaining elements and divs responsive as well
 ## Time taken to complete it
 I took 8 hours to complete it.
-## [Link text](https://visual-designer-sandy.vercel.app/)
+## [Live Link](https://visual-designer-sandy.vercel.app/)
